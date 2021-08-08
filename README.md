@@ -1,1 +1,5 @@
 # -pii
+
+/stayl/ 
+-tokovoip- 
+/          head -/ 
